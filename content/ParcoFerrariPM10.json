@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "33352",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/07/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "33353",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/08/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "33354",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/09/2024 00:00",
+    "valore": "23",
+    "vflag": "M"
+  },
+  {
+    "id": "33356",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/10/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "33358",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/11/2024 00:00",
+    "valore": "7",
+    "vflag": "M"
+  },
+  {
+    "id": "33360",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/12/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "33362",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/13/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "33364",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/14/2024 00:00",
+    "valore": "33",
+    "vflag": "M"
+  },
+  {
+    "id": "33366",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/15/2024 00:00",
+    "valore": "47",
+    "vflag": "M"
+  },
+  {
+    "id": "33368",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/16/2024 00:00",
+    "valore": "33",
+    "vflag": "M"
+  },
+  {
+    "id": "33370",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/17/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "33371",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/18/2024 00:00",
+    "valore": "31",
+    "vflag": "M"
+  },
+  {
+    "id": "33373",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/19/2024 00:00",
+    "valore": "32",
+    "vflag": "M"
+  },
+  {
+    "id": "33375",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/20/2024 00:00",
+    "valore": "41",
+    "vflag": "M"
+  },
+  {
+    "id": "33377",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/21/2024 00:00",
+    "valore": "42",
+    "vflag": "M"
+  },
+  {
+    "id": "33379",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/22/2024 00:00",
+    "valore": "35",
+    "vflag": "M"
+  },
+  {
+    "id": "33381",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/23/2024 00:00",
+    "valore": "31",
+    "vflag": "M"
+  },
+  {
+    "id": "33383",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/24/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "33385",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/25/2024 00:00",
+    "valore": "6",
+    "vflag": "M"
+  },
+  {
+    "id": "33387",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/26/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "33389",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/27/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "33391",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/28/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "33393",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/29/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "33395",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/30/2024 00:00",
+    "valore": "30",
+    "vflag": "M"
+  },
+  {
+    "id": "33397",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "03/31/2024 00:00",
+    "valore": "90",
+    "vflag": "M"
+  },
+  {
+    "id": "33400",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/01/2024 00:00",
+    "valore": "68",
+    "vflag": "M"
+  },
+  {
+    "id": "33402",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/02/2024 00:00",
+    "valore": "29",
+    "vflag": "M"
+  },
+  {
+    "id": "33404",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/03/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "33406",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/04/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "33408",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/05/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "33410",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/06/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "33418",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/07/2024 00:00",
+    "valore": "20",
+    "vflag": "M"
+  },
+  {
+    "id": "33420",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/08/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "33421",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/09/2024 00:00",
+    "valore": "24",
+    "vflag": "M"
+  },
+  {
+    "id": "33422",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/11/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "33423",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/12/2024 00:00",
+    "valore": "24",
+    "vflag": "M"
+  },
+  {
+    "id": "33424",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/13/2024 00:00",
+    "valore": "29",
+    "vflag": "M"
+  },
+  {
+    "id": "33425",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/14/2024 00:00",
+    "valore": "29",
+    "vflag": "M"
+  },
+  {
+    "id": "33426",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/15/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "33427",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/16/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "33429",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/17/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "33430",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/18/2024 00:00",
+    "valore": "10",
+    "vflag": "M"
+  },
+  {
+    "id": "33432",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/19/2024 00:00",
+    "valore": "11",
+    "vflag": "M"
+  },
+  {
+    "id": "33433",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/20/2024 00:00",
+    "valore": "10",
+    "vflag": "M"
+  },
+  {
+    "id": "33434",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/21/2024 00:00",
+    "valore": "13",
+    "vflag": "M"
+  },
+  {
+    "id": "33438",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/22/2024 00:00",
+    "valore": "7",
+    "vflag": "M"
+  },
+  {
+    "id": "33442",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/23/2024 00:00",
+    "valore": "5",
+    "vflag": "M"
+  },
+  {
+    "id": "33444",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/24/2024 00:00",
+    "valore": "8",
+    "vflag": "M"
+  },
+  {
+    "id": "33446",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/25/2024 00:00",
+    "valore": "10",
+    "vflag": "M"
+  },
+  {
+    "id": "188909",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/26/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "193002",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/27/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "196282",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/28/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "199986",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/29/2024 00:00",
+    "valore": "25",
+    "vflag": "M"
+  },
+  {
+    "id": "204878",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "04/30/2024 00:00",
+    "valore": "23",
+    "vflag": "M"
+  },
+  {
+    "id": "208668",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/01/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "211956",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/02/2024 00:00",
+    "valore": "29",
+    "vflag": "M"
+  },
+  {
+    "id": "215834",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/03/2024 00:00",
+    "valore": "4",
+    "vflag": "M"
+  },
+  {
+    "id": "219658",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/04/2024 00:00",
+    "valore": "8",
+    "vflag": "M"
+  },
+  {
+    "id": "223958",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/05/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "227110",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/06/2024 00:00",
+    "valore": "13",
+    "vflag": "M"
+  },
+  {
+    "id": "231291",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/07/2024 00:00",
+    "valore": "13",
+    "vflag": "M"
+  },
+  {
+    "id": "239185",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/08/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "239186",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/09/2024 00:00",
+    "valore": "11",
+    "vflag": "M"
+  },
+  {
+    "id": "243443",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/10/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "246854",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/11/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "250636",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/12/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "254215",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/13/2024 00:00",
+    "valore": "13",
+    "vflag": "M"
+  },
+  {
+    "id": "257264",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/14/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "257265",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/15/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "258913",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/16/2024 00:00",
+    "valore": "23",
+    "vflag": "S"
+  },
+  {
+    "id": "263662",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/17/2024 00:00",
+    "valore": "20",
+    "vflag": "S"
+  },
+  {
+    "id": "263663",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/18/2024 00:00",
+    "valore": "11",
+    "vflag": "S"
+  },
+  {
+    "id": "280551",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/19/2024 00:00",
+    "valore": "12",
+    "vflag": "S"
+  },
+  {
+    "id": "280552",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/20/2024 00:00",
+    "valore": "23",
+    "vflag": "S"
+  },
+  {
+    "id": "283771",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/21/2024 00:00",
+    "valore": "32",
+    "vflag": "S"
+  },
+  {
+    "id": "291539",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/22/2024 00:00",
+    "valore": "13",
+    "vflag": "S"
+  },
+  {
+    "id": "291540",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/23/2024 00:00",
+    "valore": "14",
+    "vflag": "S"
+  },
+  {
+    "id": "296454",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/24/2024 00:00",
+    "valore": "13",
+    "vflag": "S"
+  },
+  {
+    "id": "300869",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/25/2024 00:00",
+    "valore": "15",
+    "vflag": "S"
+  },
+  {
+    "id": "304032",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/26/2024 00:00",
+    "valore": "20",
+    "vflag": "S"
+  },
+  {
+    "id": "307576",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/27/2024 00:00",
+    "valore": "12",
+    "vflag": "S"
+  },
+  {
+    "id": "311709",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/28/2024 00:00",
+    "valore": "12",
+    "vflag": "S"
+  },
+  {
+    "id": "315987",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/29/2024 00:00",
+    "valore": "20",
+    "vflag": "S"
+  },
+  {
+    "id": "319426",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/30/2024 00:00",
+    "valore": "13",
+    "vflag": "S"
+  },
+  {
+    "id": "323451",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "05/31/2024 00:00",
+    "valore": "15",
+    "vflag": "S"
+  },
+  {
+    "id": "327063",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/01/2024 00:00",
+    "valore": "9",
+    "vflag": "S"
+  },
+  {
+    "id": "330792",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/02/2024 00:00",
+    "valore": "10",
+    "vflag": "S"
+  },
+  {
+    "id": "334415",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/03/2024 00:00",
+    "valore": "17",
+    "vflag": "S"
+  },
+  {
+    "id": "342504",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/04/2024 00:00",
+    "valore": "14",
+    "vflag": "S"
+  },
+  {
+    "id": "342505",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/05/2024 00:00",
+    "valore": "14",
+    "vflag": "S"
+  },
+  {
+    "id": "346151",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/06/2024 00:00",
+    "valore": "16",
+    "vflag": "S"
+  },
+  {
+    "id": "350466",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/07/2024 00:00",
+    "valore": "15",
+    "vflag": "S"
+  },
+  {
+    "id": "353729",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/08/2024 00:00",
+    "valore": "22",
+    "vflag": "S"
+  },
+  {
+    "id": "357390",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/09/2024 00:00",
+    "valore": "26",
+    "vflag": "S"
+  },
+  {
+    "id": "362723",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/10/2024 00:00",
+    "valore": "26",
+    "vflag": "S"
+  },
+  {
+    "id": "370156",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/12/2024 00:00",
+    "valore": "23",
+    "vflag": "S"
+  },
+  {
+    "id": "370157",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/13/2024 00:00",
+    "valore": "23",
+    "vflag": "S"
+  },
+  {
+    "id": "370158",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/14/2024 00:00",
+    "valore": "16",
+    "vflag": "S"
+  },
+  {
+    "id": "375542",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/15/2024 00:00",
+    "valore": "18",
+    "vflag": "S"
+  },
+  {
+    "id": "384652",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/16/2024 00:00",
+    "valore": "12",
+    "vflag": "S"
+  },
+  {
+    "id": "388171",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/17/2024 00:00",
+    "valore": "9",
+    "vflag": "S"
+  },
+  {
+    "id": "392006",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/18/2024 00:00",
+    "valore": "14",
+    "vflag": "S"
+  },
+  {
+    "id": "396022",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/19/2024 00:00",
+    "valore": "19",
+    "vflag": "S"
+  },
+  {
+    "id": "399756",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/20/2024 00:00",
+    "valore": "29",
+    "vflag": "S"
+  },
+  {
+    "id": "403562",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/21/2024 00:00",
+    "valore": "48",
+    "vflag": "S"
+  },
+  {
+    "id": "405088",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/22/2024 00:00",
+    "valore": "44",
+    "vflag": "S"
+  },
+  {
+    "id": "411098",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/23/2024 00:00",
+    "valore": "24",
+    "vflag": "S"
+  },
+  {
+    "id": "411483",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/24/2024 00:00",
+    "valore": "15",
+    "vflag": "S"
+  },
+  {
+    "id": "420238",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/25/2024 00:00",
+    "valore": "17",
+    "vflag": "S"
+  },
+  {
+    "id": "420239",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/26/2024 00:00",
+    "valore": "12",
+    "vflag": "S"
+  },
+  {
+    "id": "421509",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/27/2024 00:00",
+    "valore": "15",
+    "vflag": "S"
+  },
+  {
+    "id": "422981",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/28/2024 00:00",
+    "valore": "13",
+    "vflag": "S"
+  },
+  {
+    "id": "433856",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/29/2024 00:00",
+    "valore": "22",
+    "vflag": "S"
+  },
+  {
+    "id": "435265",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "06/30/2024 00:00",
+    "valore": "32",
+    "vflag": "S"
+  },
+  {
+    "id": "443448",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/01/2024 00:00",
+    "valore": "18",
+    "vflag": "S"
+  },
+  {
+    "id": "443449",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/02/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "449789",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/03/2024 00:00",
+    "valore": "9",
+    "vflag": "M"
+  },
+  {
+    "id": "452693",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/05/2024 00:00",
+    "valore": "11",
+    "vflag": "M"
+  },
+  {
+    "id": "454985",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/06/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "454986",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/07/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "463056",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/08/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "463057",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/09/2024 00:00",
+    "valore": "25",
+    "vflag": "M"
+  },
+  {
+    "id": "479360",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/10/2024 00:00",
+    "valore": "28",
+    "vflag": "M"
+  },
+  {
+    "id": "479361",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/11/2024 00:00",
+    "valore": "26",
+    "vflag": "M"
+  },
+  {
+    "id": "482890",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/12/2024 00:00",
+    "valore": "27",
+    "vflag": "M"
+  },
+  {
+    "id": "487041",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/13/2024 00:00",
+    "valore": "25",
+    "vflag": "M"
+  },
+  {
+    "id": "489341",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/14/2024 00:00",
+    "valore": "22",
+    "vflag": "M"
+  },
+  {
+    "id": "494653",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/15/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "495713",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/16/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "497177",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/17/2024 00:00",
+    "valore": "22",
+    "vflag": "M"
+  },
+  {
+    "id": "506326",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/18/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "507663",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/19/2024 00:00",
+    "valore": "24",
+    "vflag": "M"
+  },
+  {
+    "id": "509202",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/20/2024 00:00",
+    "valore": "29",
+    "vflag": "M"
+  },
+  {
+    "id": "518680",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/21/2024 00:00",
+    "valore": "13",
+    "vflag": "M"
+  },
+  {
+    "id": "518681",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/22/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "524760",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/23/2024 00:00",
+    "valore": "22",
+    "vflag": "M"
+  },
+  {
+    "id": "529266",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/24/2024 00:00",
+    "valore": "20",
+    "vflag": "M"
+  },
+  {
+    "id": "529977",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/25/2024 00:00",
+    "valore": "34",
+    "vflag": "M"
+  },
+  {
+    "id": "537042",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/26/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "540975",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/27/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "540976",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/28/2024 00:00",
+    "valore": "20",
+    "vflag": "M"
+  },
+  {
+    "id": "544997",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "07/29/2024 00:00",
+    "valore": "22",
+    "vflag": "M"
+  },
+  {
+    "id": "549415",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/02/2024 00:00",
+    "valore": "30",
+    "vflag": "M"
+  },
+  {
+    "id": "564559",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/03/2024 00:00",
+    "valore": "25",
+    "vflag": "M"
+  },
+  {
+    "id": "566249",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/04/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "567785",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/05/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "569309",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/06/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "570669",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/07/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "572748",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/08/2024 00:00",
+    "valore": "25",
+    "vflag": "M"
+  },
+  {
+    "id": "574807",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/09/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "574808",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/10/2024 00:00",
+    "valore": "22",
+    "vflag": "M"
+  },
+  {
+    "id": "576518",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/11/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "578819",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/12/2024 00:00",
+    "valore": "18",
+    "vflag": "M"
+  },
+  {
+    "id": "605178",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/13/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "606809",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/14/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "607976",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/15/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "609661",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/16/2024 00:00",
+    "valore": "20",
+    "vflag": "M"
+  },
+  {
+    "id": "614521",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/17/2024 00:00",
+    "valore": "24",
+    "vflag": "M"
+  },
+  {
+    "id": "616446",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/18/2024 00:00",
+    "valore": "23",
+    "vflag": "M"
+  },
+  {
+    "id": "618066",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/19/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "632605",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/20/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "636075",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/21/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "639821",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/22/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "644195",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/23/2024 00:00",
+    "valore": "26",
+    "vflag": "M"
+  },
+  {
+    "id": "645387",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/24/2024 00:00",
+    "valore": "23",
+    "vflag": "M"
+  },
+  {
+    "id": "649429",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/25/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "655310",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/26/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "656377",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/27/2024 00:00",
+    "valore": "27",
+    "vflag": "M"
+  },
+  {
+    "id": "658213",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/28/2024 00:00",
+    "valore": "30",
+    "vflag": "M"
+  },
+  {
+    "id": "664776",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/29/2024 00:00",
+    "valore": "28",
+    "vflag": "M"
+  },
+  {
+    "id": "670785",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/30/2024 00:00",
+    "valore": "27",
+    "vflag": "M"
+  },
+  {
+    "id": "671825",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "08/31/2024 00:00",
+    "valore": "28",
+    "vflag": "M"
+  },
+  {
+    "id": "675859",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/01/2024 00:00",
+    "valore": "29",
+    "vflag": "M"
+  },
+  {
+    "id": "681464",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/02/2024 00:00",
+    "valore": "27",
+    "vflag": "M"
+  },
+  {
+    "id": "684769",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/03/2024 00:00",
+    "valore": "26",
+    "vflag": "M"
+  },
+  {
+    "id": "686429",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/04/2024 00:00",
+    "valore": "23",
+    "vflag": "M"
+  },
+  {
+    "id": "688170",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/05/2024 00:00",
+    "valore": "24",
+    "vflag": "M"
+  },
+  {
+    "id": "697692",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/06/2024 00:00",
+    "valore": "9",
+    "vflag": "M"
+  },
+  {
+    "id": "701248",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/07/2024 00:00",
+    "valore": "19",
+    "vflag": "M"
+  },
+  {
+    "id": "702439",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/08/2024 00:00",
+    "valore": "21",
+    "vflag": "M"
+  },
+  {
+    "id": "708028",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/09/2024 00:00",
+    "valore": "25",
+    "vflag": "M"
+  },
+  {
+    "id": "709464",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/10/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "719269",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/12/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "721903",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/13/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "725652",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/14/2024 00:00",
+    "valore": "10",
+    "vflag": "M"
+  },
+  {
+    "id": "725653",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/15/2024 00:00",
+    "valore": "8",
+    "vflag": "M"
+  },
+  {
+    "id": "725654",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/16/2024 00:00",
+    "valore": "11",
+    "vflag": "M"
+  },
+  {
+    "id": "725655",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/17/2024 00:00",
+    "valore": "13",
+    "vflag": "M"
+  },
+  {
+    "id": "725656",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/18/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "727989",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/19/2024 00:00",
+    "valore": "23",
+    "vflag": "M"
+  },
+  {
+    "id": "734502",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/20/2024 00:00",
+    "valore": "15",
+    "vflag": "M"
+  },
+  {
+    "id": "735776",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/21/2024 00:00",
+    "valore": "32",
+    "vflag": "M"
+  },
+  {
+    "id": "737522",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/22/2024 00:00",
+    "valore": "31",
+    "vflag": "M"
+  },
+  {
+    "id": "737523",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/23/2024 00:00",
+    "valore": "27",
+    "vflag": "M"
+  },
+  {
+    "id": "757641",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/24/2024 00:00",
+    "valore": "46",
+    "vflag": "M"
+  },
+  {
+    "id": "757642",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/25/2024 00:00",
+    "valore": "17",
+    "vflag": "M"
+  },
+  {
+    "id": "761888",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/26/2024 00:00",
+    "valore": "16",
+    "vflag": "M"
+  },
+  {
+    "id": "761889",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/27/2024 00:00",
+    "valore": "12",
+    "vflag": "M"
+  },
+  {
+    "id": "777594",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/28/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "777595",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/29/2024 00:00",
+    "valore": "14",
+    "vflag": "M"
+  },
+  {
+    "id": "784740",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "09/30/2024 00:00",
+    "valore": "8",
+    "vflag": "M"
+  },
+  {
+    "id": "784741",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/01/2024 00:00",
+    "valore": "22",
+    "vflag": "M"
+  },
+  {
+    "id": "784742",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/02/2024 00:00",
+    "valore": "25",
+    "vflag": "G"
+  },
+  {
+    "id": "788165",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/03/2024 00:00",
+    "valore": "22",
+    "vflag": "G"
+  },
+  {
+    "id": "788166",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/04/2024 00:00",
+    "valore": "15",
+    "vflag": "G"
+  },
+  {
+    "id": "802644",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/05/2024 00:00",
+    "valore": "6",
+    "vflag": "G"
+  },
+  {
+    "id": "802645",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/06/2024 00:00",
+    "valore": "18",
+    "vflag": "G"
+  },
+  {
+    "id": "802646",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/07/2024 00:00",
+    "valore": "19",
+    "vflag": "G"
+  },
+  {
+    "id": "802647",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/08/2024 00:00",
+    "valore": "29",
+    "vflag": "G"
+  },
+  {
+    "id": "823356",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/09/2024 00:00",
+    "valore": "17",
+    "vflag": "G"
+  },
+  {
+    "id": "823357",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/10/2024 00:00",
+    "valore": "14",
+    "vflag": "G"
+  },
+  {
+    "id": "823358",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/11/2024 00:00",
+    "valore": "14",
+    "vflag": "G"
+  },
+  {
+    "id": "834649",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/12/2024 00:00",
+    "valore": "15",
+    "vflag": "G"
+  },
+  {
+    "id": "834650",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/13/2024 00:00",
+    "valore": "22",
+    "vflag": "G"
+  },
+  {
+    "id": "834651",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/14/2024 00:00",
+    "valore": "24",
+    "vflag": "G"
+  },
+  {
+    "id": "834652",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/15/2024 00:00",
+    "valore": "31",
+    "vflag": "G"
+  },
+  {
+    "id": "848810",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/16/2024 00:00",
+    "valore": "46",
+    "vflag": "G"
+  },
+  {
+    "id": "859130",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/19/2024 00:00",
+    "valore": "21",
+    "vflag": "G"
+  },
+  {
+    "id": "859131",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/20/2024 00:00",
+    "valore": "41",
+    "vflag": "T"
+  },
+  {
+    "id": "867772",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/24/2024 00:00",
+    "valore": "37",
+    "vflag": "G"
+  },
+  {
+    "id": "867773",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/25/2024 00:00",
+    "valore": "23",
+    "vflag": "G"
+  },
+  {
+    "id": "878690",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/26/2024 00:00",
+    "valore": "31",
+    "vflag": "G"
+  },
+  {
+    "id": "891436",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/27/2024 00:00",
+    "valore": "32",
+    "vflag": "G"
+  },
+  {
+    "id": "892531",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/28/2024 00:00",
+    "valore": "35",
+    "vflag": "G"
+  },
+  {
+    "id": "892532",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/29/2024 00:00",
+    "valore": "40",
+    "vflag": "G"
+  },
+  {
+    "id": "901729",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/30/2024 00:00",
+    "valore": "41",
+    "vflag": "G"
+  },
+  {
+    "id": "901730",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "10/31/2024 00:00",
+    "valore": "39",
+    "vflag": "G"
+  },
+  {
+    "id": "902639",
+    "stazione": "4000022",
+    "parametro": "PM10",
+    "orario": "11/01/2024 00:00",
+    "valore": "40",
+    "vflag": "T"
+  }
+]
